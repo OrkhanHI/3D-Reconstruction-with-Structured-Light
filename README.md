@@ -34,6 +34,7 @@ positional arguments:
   f           camera focal length
   theta       angle of the laser pointer
   x           x coordinate of P in the image buffer
-  
+```
+```
 python main.py z b f theta x
 ```
